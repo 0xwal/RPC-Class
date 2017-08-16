@@ -1,2 +1,2 @@
 # RPC-Class
-This class valid for all PS3 games.
+This class is valid for all PS3 games.
